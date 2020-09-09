@@ -10,6 +10,13 @@
    * JPA 
    * PostMan을 통한 API 테스트 
    
+## 학습할 것들 
+   * Spring Security
+   * AWS EC2 - 배포 
+   * AWS RDS
+   * Travis CI 배포 자동화 
+   * 무중단 배포 서비스 
+   
 ## IDE 
    * IntellJ
    #### IntellJ를 사용하면서 
